@@ -1,1 +1,1 @@
-# ai-pdf-analyser
+# ai-document-assistant
